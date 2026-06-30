@@ -144,6 +144,3 @@ For Android developers wishing to modify the NanoHTTPD routing logic or update t
  * Add native UI monitoring for device temperature and real-time RAM allocation during generation.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
-
-```
