@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/3764-3434/ACS/RashboardEngine/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 32,
+          "index": 849,
+          "line": 17
+        },
+        "start": {
+          "column": 32,
+          "index": 849,
+          "line": 17
+        }
+      }
+    },
+    {
+      "file": "/storage/3764-3434/ACS/RashboardEngine/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 36,
+          "index": 48,
+          "line": 1
+        },
+        "start": {
+          "column": 36,
+          "index": 48,
+          "line": 1
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/3764-3434/ACS/RashboardEngine/app/src/main/AndroidManifest.xml"
+}

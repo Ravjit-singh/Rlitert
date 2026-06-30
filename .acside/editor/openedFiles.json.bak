@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/3764-3434/ACS/RashboardEngine/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/3764-3434/ACS/RashboardEngine/app/build.gradle"
+}
